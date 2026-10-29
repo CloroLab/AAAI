@@ -1,0 +1,24 @@
+{
+  "Monday": [
+    "07:00 - Mathematics",
+    "09:00 - English Literature"
+  ],
+  "Tuesday": [
+    "07:00 - Physics",
+    "09:00 - Computer Science"
+  ],
+  "Wednesday": [
+    "07:00 - Chemistry",
+    "09:00 - History"
+  ],
+  "Thursday": [
+    "07:00 - Biology",
+    "09:00 - Art & Culture"
+  ],
+  "Friday": [
+    "07:00 - Physical Education",
+    "09:00 - Workshop"
+  ],
+  "Saturday": [],
+  "Sunday": []
+}
