@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=AAAI Wall Dashboard
+Exec=sh -c "sleep 5 && xset s off && xset dpms 60 60 60 && chromium --kiosk --app=http://localhost:3000"
+X-GNOME-Autostart-enabled=true
