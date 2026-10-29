@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & secrets
+.env
+
+# WhatsApp Web session & cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Local SQLite databases & personal schedule
+*.db
+*.db-shm
+*.db-wal
+jadwal.json
+
+# Custom media & logs
+alarm.mp3
+*.log
+npm-debug.log*
